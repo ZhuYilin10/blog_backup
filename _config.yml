@@ -7,7 +7,7 @@ title: ZhuYilin's Blog
 subtitle: 世上所有的坚持 都是因为热爱
 description: 世上所有的坚持 都是因为热爱
 author: Zhu Yilin
-language: zh-cn
+language: zh-CN
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
